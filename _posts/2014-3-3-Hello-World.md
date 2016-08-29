@@ -1,10 +1,22 @@
 ---
 layout: post
-title: You're up and running!
+title: Week One
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+#### What did you do this past week?
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+First week of school is always confusing and a little surreal. I spent the first week mulling over my course schedule and making more changes than I probably should have. Adding OOP was a bit of a last minute decision. I'd taken Software Engineering a year ago, and although that class royally kicked my butt, it was probably the most "useful" class I'd taken to date, so I figured OOP would do the same to my hireability and resume.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+#### What's in your way?
+
+I'm having to make a lot of decisions on whether or not 15 hours of class plus a part time job is something that I can handle. My biggest concern is that all my classes are very project heavy (this class, 3D modeling, and Game Technology, all of which have ~5 projects throughout the semester), and I also have projects to work on for work. 
+
+#### What will you do next week?
+I will have to make a final decision on whether or not to keep my current course schedule as is, or drop a class to make my workload easier.
+
+#### Actual blog content
+
+From the first day of class my fears that the class will actually teach me new things were realized. I've been using C++ for about a year now, and Java for something like 8, but I had always thought that "import" and "include" were the same things -- they're in the same place in code, and heck, they also look similar. Thanks to Professor Downing the actual meaning of those keywords were revealed to me. 
+
+#### P.S Tip of the Week
+I found about a browser game accessible through idiots.win. Brilliantly simple, yet hilarious. Truly a work of genius.
