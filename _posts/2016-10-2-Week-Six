@@ -1,0 +1,22 @@
+---
+layout: post
+title: Week Five
+---
+
+#### What did you do this past week?
+
+I had 2 interviews this week: a phone interview for Facebook, and a coding sample for Google. Like the clumsy airhead I am, I forgot that the US had timezones, and that 2 pm PDT is not the same as 2 pm CDT. Fortunately it worked out in my favor in the sense that it was later than what I expected. The interview itself was a surprisingly smooth experience. I was giving a coding problem which I worked through over the course of 45 minutes with occasional hints from my interviewer. At the end I completed a working solution, which my interviewer called "rare", which stroked my ego way too much. Google's problems were slightly tougher -- I was given 1 hour to complete 2 coding samples. May or may not have finalized the code 1 second before time was up. Nevertheless, I did complete solutions that at least worked on the test cases that I could think of and had time to test. I'm super excited about all this.
+
+#### What's in your way?
+
+I have one more coding assessment left, this time for Amazon. There is also the test in this class. My workload at Vislab is also piling on -- there was a project that was assigned to me a couple of weeks ago but I hadn't had time to assess because of other projects (and the Denver demo), and last week my manager told me "this has to be done this week". Well, it wasn't, so I guess I better finish that up ASAP.
+
+#### What will you do next week?
+Tonight I will probably finish up the Amazon Interview. Monday and Tuesday are my work days, which I will use to focus on writing to the frame buffer of the Oculus through the Oculus SDK and OpenGL. I will also need to speak with an advisor about graduate school since that is something I am currently considering.
+
+#### Actual blog content
+
+Remember how last week I was utterly lost? Well I finally pulled myself together and started paying attention in class, and wow--I actually know what's going on now! It's almost miraculous. In terms of actual class content, I would like to thank Professor Downing for proving to me that he has more than the assertions/exceptions joke up his sleeve. I also appreciate how the class delivers its material. What better way to learn how to program in C++ than to make a functional class? You'll even get to learn about your friends' private parts that way.
+
+#### P.S Tip of the Week
+I'll admit I sort of plagarized this Tip of the Week because I actually found out about it because the person sitting in front of me in class was playing it. The game is [Clickpocalyse 2](http://minmaxia.com/c2/). It's a normal rpg game -- you choose 4 heroes, who then roam the land killing monsters. The only difference is that you don't get to control them.
