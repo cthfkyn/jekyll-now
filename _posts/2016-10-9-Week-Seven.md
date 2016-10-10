@@ -15,4 +15,12 @@ I don't remember if I talked about this last week, but I feel that my biggest ob
 
 Tuesday is my 3 hour long Amazon interview. I'm gonna gripe about that for a sec -- they want me to have 2 forms of identification, because one driver's license isn't enough, and they want a webcam/microphone running the entire time, AND they require a mirror to show your surroundings if your webcam happens to be a front facing one. What the heck? Why are you that untrusting of your applicants? Even if they *did* cheat through the online assessments, they would be found out during the on site interviews anyways, and no one is going to put in that much effort just to be thwarted a few weeks later. Ok, end rant. Other than Amazon I have a pretty standard school work filled week. I will probably find a partner and start working on the new OOP project, too.
 
-#### 
+#### Actual blog content
+
+Did anything happen in class this week? My memory is failing me. All I remember is studying for the test. I remember being called on once about constant poin--OH YEAH, WE TALKED ABOUT CONSTANT POINTERS TO CONSTANT THINGS. And there was that joke with the paintball. I'm excited to learn about new things that aren't just about logic but also deal with good software design -- what do you want to prevent others from being able to change? It's not something that you would worry about in a competitive programming setting but is definitely important when you're making real software.
+
+As usual, fantastic job on the joke. Never fails to make me chuckle.
+
+#### Tip of the Week
+
+[Just click it. You won't be disappointed.](https://github.com/NARKOZ/hacker-scripts)
