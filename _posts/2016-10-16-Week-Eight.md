@@ -11,7 +11,7 @@ That's enough rambling for the week.
 
 #### What is in your way?
 
-I got an email invitation to the Twitter coding challenge a couple of days back, and dutifully started it about 2 days ago. And I was stumped on the very first question. As someone who has never written a single line of SQL in my life, I spent a couple of minutes despairing before deciding to move on to the next 2 questions, which are significantly more in my comfort zone. So currently i face the dilemma of whether or not it would be ethical to give myself a crash course on SQL solely for the purpose of this coding challenge.
+I got an email invitation to the Twitter coding challenge a couple of days back, and dutifully started it about 2 days ago. And I was stumped on the very first question. As someone who has never written a single line of SQL in my life, I spent a couple of minutes despairing before deciding to move on to the next 2 questions, which are significantly more in my comfort zone. So currently I face the dilemma of whether or not it would be ethical to give myself a crash course on SQL solely for the purpose of this coding challenge.
 
 #### What will you do next week?
 
