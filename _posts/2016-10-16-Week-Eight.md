@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Six
+title: Week Eight
 ---
 
 #### What did you do this past week?
