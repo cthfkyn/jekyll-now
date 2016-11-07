@@ -1,3 +1,8 @@
+---
+layout: post
+title: Week Eleven
+---
+
 #### What did you do this past week?
 
 Still not computer science or OOP related, but--remember how I had that ear infection? Well, taking 2 weeks of antibiotics didn't fix it. In fact, it got worse. So now not only is it constantly bothering me, I also have hearing loss. It's great. All this has reduced me to a whining baby for the past week.
